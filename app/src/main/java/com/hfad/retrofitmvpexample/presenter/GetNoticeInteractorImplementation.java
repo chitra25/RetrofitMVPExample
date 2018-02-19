@@ -8,9 +8,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by CHITRANGI on 2/18/2018.
- */
 
 public class GetNoticeInteractorImplementation implements MainInterface.GetNoticeInteractor {
     @Override
